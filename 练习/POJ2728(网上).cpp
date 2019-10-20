@@ -25,7 +25,7 @@ double cal(int a,  int b)
 	return sqrt(1.0 * (p[a].u - p[b].u) * (p[a].u - p[b].u)
 	+ 1.0 * (p[a].v  - p[b].v) * (p[a].v  - p[b].v));	
 } 
- 
+
 double prim(int src , double l)
 {
 	double cost = 0 , len = 0 ; 
