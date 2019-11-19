@@ -6,7 +6,7 @@
 using namespace std ;
 
 struct cnode {
-	int k ;
+	int k ;	
 	int w ;
 }; 
 
